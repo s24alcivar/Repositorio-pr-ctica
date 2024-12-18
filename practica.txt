@@ -1,2 +1,3 @@
 practica del informe de git
 para fin de ciclo
+practica desde visual Studio Code 
